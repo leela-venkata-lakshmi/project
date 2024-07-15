@@ -176,7 +176,7 @@ footer .footer-section .social-media ul li {
 #content p{
   font-size:2em;
   letter-spacing: 2px;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family:monospace;
   gap:10px;
   width:100%;
   white-space: nowrap;
